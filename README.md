@@ -1,2 +1,2 @@
-# scientific-computing
-Scientific Computing with python is a certification course offered by Freecodecamp, This repository contains my personal solutions for the course projects.
+### Scientific Computing with python
+Scientific Computing with python is a certification course offered by Freecodecamp organization to learn python 3 fundamentals like variables, loops, conditionals, and functions and expand the knowledge to complex data structures, networking, relational databases, and data visualization.
