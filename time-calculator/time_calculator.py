@@ -1,3 +1,7 @@
+__author__ = "LahiruCW"
+__version__= 1.0
+__description__ = "Time calculator is a function written to calculate time."
+
 def add_time(start, duration, day = ""):
   new_time = ""
 
